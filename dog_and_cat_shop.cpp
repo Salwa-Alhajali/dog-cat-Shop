@@ -277,23 +277,3 @@ else{ cout <<"not available choice\n";
 return 0;
  
 }
-// ======================= Future Development Plan =======================
-// >> SHOPPING & PRODUCT FEATURES
-// -- [ ] Add a wallet system for user balance and quick payments
-// -- [ ] Display full animal details in the shopping cart (age, breed, health info)
-// -- [ ] Enable quantity selection for pets (useful for birds, fish, etc.)
-// -- [ ] Add a section for purchasing pet food by type and dietary needs
-
-// >> HEALTH & CARE
-// -- [ ] Implement a vaccination plan based on pet age
-// *-- [ ] Provide pet care tips and checklists based on species and age
-
-// >> BUSINESS & ANALYTICS
-// -- [ ] Build a profit calculator to track revenue and costs
-// *-- [ ] Add a sales dashboard with stats and best-selling items
-
-// >> USER EXPERIENCE
-// -- [ ] Allow pet return or exchange within a specific time after purchase
-// *-- [ ] Add a wishlist/favorites feature for pets and products
-// *-- [ ] Suggest pets based on lifestyle quiz or preferences ("Find Your Match")
-// ===============================================================================
