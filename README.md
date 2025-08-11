@@ -1,5 +1,7 @@
 # MeowWoof Market 🐾
-
+<p align="center">
+  <img src="catDog.png" alt="MeowWoof Market" width="300">
+</p>
 Welcome to **MeowWoof Market** — your friendly and cozy pet shop program, built with C++.  
 This project simulates a pet store where users can explore, purchase, and manage their favorite dogs and cats.  
 
